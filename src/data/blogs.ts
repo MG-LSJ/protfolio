@@ -9,7 +9,7 @@ type Blogs = {
 const blogs: Blogs[] = [
 	{
 		title: "Tech Geeks",
-		date: "2023-Present",
+		date: "2023-2026",
 		url: "https://gehuhaldwani.github.io/techgeeks/",
 		url_name: "techgeeksgehu",
 		content:

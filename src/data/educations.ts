@@ -10,6 +10,16 @@ type Education = {
 
 const educations: Education[] = [
 	{
+		title: "M.TECH (CSE)",
+		date: "2026 - 2028",
+		organization: "International Institute of Information Technology",
+		location: "IIIT, Hyderabad, Telengana, IN",
+		url: "https://iiit.ac.in",
+		tags: ["Computer Science", "Engineering"],
+		content:
+			"Master of Technology in Computer Science and Engineering from International Institute of Information Technology",
+	},
+	{
 		title: "B.TECH (CSE)",
 		date: "2022 - 2026",
 		organization: "Graphic Era Hill University",

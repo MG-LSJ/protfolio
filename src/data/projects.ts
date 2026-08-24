@@ -9,7 +9,7 @@ type Project = {
 const projects: Project[] = [
 	{
 		title: "PYQ Archive (GEHU)",
-		date: "Jan 2023 - Present",
+		date: "Jan 2023 - June 2026",
 		url: "https://bit.ly/gehupyqs",
 		tags: ["Astro", "Community"],
 		content:
